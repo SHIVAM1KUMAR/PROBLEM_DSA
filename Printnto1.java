@@ -12,3 +12,8 @@ public class Printnto1 {
        
     }
 }
+// // num(1,n);
+// for(int i=n;i>=1;i--){
+            
+//     System.out.println(i);
+// }
