@@ -11,6 +11,7 @@ public class FirstandlastIndex {
                 System.out.println(i);
             }
         }
+        System.out.println("Streak maintain");
        
     }
 }
