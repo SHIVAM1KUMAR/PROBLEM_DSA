@@ -17,5 +17,7 @@ public class primeNumber{
             System.out.println("not prime number");
         }else
         System.out.println("Prime number");
+        System.out.println("Stteak");
     }
+    
     }
